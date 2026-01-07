@@ -6,7 +6,7 @@
   "id": "did:web:Suraj-Murgude.github.io:passport:dev2",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkpLXRQCzYK7wwKuXBUfmpXfVK42aQzPJSg4kzvM9iqCbB",
+      "publicKeyMultibase": "z6MkoBmA3fpKwbLDCt69cgCyiEDDPbN8X5mC7PySa5GxXwya",
       "controller": "did:web:Suraj-Murgude.github.io:passport:dev2",
       "id": "did:web:Suraj-Murgude.github.io:passport:dev2#key-0",
       "type": "Ed25519VerificationKey2020",
